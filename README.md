@@ -1,4 +1,4 @@
-![](Banner.png)
+<img src="Baanner.png">
 <hr></hr
 <p align="center">
   <samp>
@@ -9,7 +9,6 @@
     :email:	shaamim.info@gmail.com <br>
   </samp>
 </p>
-<img scr="Banner (1).jpg">
 <!--
 **shamimINFO/shamiminfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
