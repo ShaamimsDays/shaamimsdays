@@ -1,4 +1,4 @@
-<img src="Baanner.png">
+<img src="https://github.com/shamimINFO/shamiminfo/blob/master/Baanner.png">
 <hr></hr>
 <p align="center">
   <samp>
