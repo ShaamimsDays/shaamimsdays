@@ -1,14 +1,14 @@
-<img src="https://raw.githubusercontent.com/saadpasta/saadpasta/master/Banner%20%20(1).png?token=AFR2MI7PXWJTBJNE6GSR7IK7G6PCG"/>
- <hr></hr>
+<img src="Baanner.png">
+<hr></hr>
 <p align="center">
   <samp>
-    Hi, I'm Saad! 👋 <br>
-    🔥 19 Year's Old Software Developer grinding hard to make something cool  <br>
-    :sparkles: Favorite Tech: JavaScript, React, Typescript, Python ... <br>
-    :notebook: I’m currently learning DS and Algo... 😭  <br>
-    :email:	saadpasta70@gmail.com <br>
-    :art: Portfolio: https://saadpasta.github.io <br>
-    :briefcase: LinkedIn: https://linkedin.com/in/saadpasta <br>
+    Hi There, I'm SHAMIM HOSSAIN! 👋 <br>
+    🔥 Try to do something new. But now I am learning web development :) <br>
+    Favorite Tech: JavaScript, React, PHP, Python ... <br>
+    :notebook: I’m currently learning JavaScript... 😭  <br>
+    :email:	shaamim.info@gmail.com <br>
+    :art: Portfolio: https://shamimINFO.github.io <br>
+    :briefcase: LinkedIn: https://linkedin.com/in/shaamim <br>
+    :social : Facebook: https://facebook.com/shaamim.info
   </samp>
 </p>
-
