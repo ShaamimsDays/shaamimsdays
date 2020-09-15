@@ -1,4 +1,4 @@
-![](path/to/Banner .png)
+![](Banner.png)
 <hr></hr>
 <p align="center">
   <samp>
