@@ -9,6 +9,6 @@
     :email:	shaamim.info@gmail.com <br>
     :art: Portfolio: https://shamimINFO.github.io <br>
     :briefcase: LinkedIn: https://linkedin.com/in/shaamim <br>
-    :briefcase: Facebook: https://facebook.com/shaamim.info
+    :briefcase: Fiverr: https://www.fiverr.com/shaamim_
   </samp>
 </p>
