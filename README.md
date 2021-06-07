@@ -8,7 +8,7 @@
     :notebook: I’m currently learning JavaScript... 😭  <br>
     :email:	shaamim.info@gmail.com <br>
     :art: Portfolio: https://shamimINFO.github.io <br>
-    :briefcase: LinkedIn: https://linkedin.com/in/shaamim <br>
+    :briefcase: LinkedIn: https://linkedin.com/in/shaamimsdays <br>
     :briefcase: Fiverr: https://www.fiverr.com/shaamim_
   </samp>
 </p>
