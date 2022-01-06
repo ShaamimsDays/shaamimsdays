@@ -6,9 +6,9 @@
     🔥 Try to do something new. But now I am learning web development :) <br>
     Favorite Tech: JavaScript, React, PHP, Python ... <br>
     :notebook: I’m currently learning JavaScript... 😭  <br>
-    :email:	shaamim.info@gmail.com <br>
-    :art: Portfolio: https://shamimINFO.github.io <br>
-    :briefcase: LinkedIn: https://linkedin.com/in/shaamimsdays <br>
+    :email:	shaamimdevs@gmail.com <br>
+    :art: Portfolio: https://shaamimdevs.github.io <br>
+    :briefcase: LinkedIn: https://linkedin.com/in/shaamimdevs <br>
     :briefcase: Fiverr: https://www.fiverr.com/shaamim_
   </samp>
 </p>
